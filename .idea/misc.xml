@@ -3,7 +3,11 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/CrickInformerBackend/pom.xml" />
+=======
+        <option value="$PROJECT_DIR$/AOPDemo/AOPDemo/pom.xml" />
+>>>>>>> origin/master
       </list>
     </option>
   </component>

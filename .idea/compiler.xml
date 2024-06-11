@@ -6,16 +6,28 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+<<<<<<< HEAD
         <module name="CrickInformerBackend" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="CrickInformerBackend" target="17" />
+=======
+        <module name="AOPDemo" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="AOPDemo" target="17" />
+>>>>>>> origin/master
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+<<<<<<< HEAD
       <module name="CrickInformerBackend" options="-parameters" />
+=======
+      <module name="AOPDemo" options="-parameters" />
+>>>>>>> origin/master
     </option>
   </component>
 </project>

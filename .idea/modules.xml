@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/CrickInformerBackend/CrickInformerBackend.iml" filepath="$PROJECT_DIR$/CrickInformerBackend/CrickInformerBackend.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/AOPDemo/AOPDemo/AOPDemo.iml" filepath="$PROJECT_DIR$/AOPDemo/AOPDemo/AOPDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/PointCut Expressions.iml" filepath="$PROJECT_DIR$/.idea/PointCut Expressions.iml" />
+>>>>>>> origin/master
     </modules>
   </component>
 </project>
